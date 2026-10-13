@@ -18,7 +18,7 @@ anotações em papel e evitando overbooking.
 - Git e GitHub
 
 ## Time de desenvolvedores
-- Seu Nome Completo
+- Polliana Silva
 
 ## Funcionalidades do sistema
 - **RF01:** cadastrar, editar, listar e excluir clientes
